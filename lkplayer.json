@@ -124,6 +124,23 @@
       "channel_type": "URL"
     }
   ],
+    "playlist": [
+    {
+      "code": "PL001",
+      "playlist_title": "Top Hits 2025",
+      "playlist_url": "https://example.com/top-hits-2025"
+    },
+    {
+      "code": "PL002",
+      "playlist_title": "Chill Vibes",
+      "playlist_url": "https://example.com/chill-vibes"
+    },
+    {
+      "code": "PL003",
+      "playlist_title": "Workout Mix",
+      "playlist_url": "https://example.com/workout-mix"
+    }
+  ],
   "more_apps": [
     {
       "id": 1,
